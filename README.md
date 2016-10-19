@@ -1,5 +1,7 @@
 # node_rest_server
 
+More here: http://ngjava.com/index.php/2016/10/19/a-simple-node-js-rest-server-simulator-for-testing/
+
 ##Goal of the project
 A simple web server that answer with JSON content to some http requests.
 This should help during the development phase of REST API. Often we need to open json files to test our code but because the restrictions of the browser we cannot load files on the filesystem.
